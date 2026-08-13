@@ -245,4 +245,4 @@ python -m agent.main_agent
 
 ## 📄 许可证
 
-[MIT](LICENSE) © 2026 【你的名字】
+[MIT](LICENSE) © 2026 【Gweih】
