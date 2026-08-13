@@ -1,0 +1,28 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ===== 环境变量（密钥！严禁入库）=====
+.env
+.env.local
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+
+# ===== Node / 前端 =====
+node_modules/
+dist/
+npm-debug.log*
+
+# ===== 运行时生成目录（Agent 每次会话都会写，不该进库）=====
+output/
+updated/
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
